@@ -1,0 +1,37 @@
+
+body{
+  text-align: center;
+font-family: 'Lemonada', cursive;
+
+}
+
+h1{
+  font-family: 'Dancing Script', cursive;
+}
+.top-container{
+  background-color: #abc2e8;
+padding-top: 100px;
+}
+.middle-container{
+
+}
+.bottom-container{
+
+}
+.top-cloud{
+  position: relative;
+left: 210px;
+top: 30px;
+}
+.bottom-cloud{
+  position: relative;
+  bottom: 280px;
+  left: 130px;
+}
+.mountain{
+  position: relative;
+  right: 50px;
+}
+
+.profile{
+  }
